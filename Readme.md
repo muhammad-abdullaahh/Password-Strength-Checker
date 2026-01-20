@@ -38,6 +38,3 @@ A modern, interactive web application that provides **real-time feedback** on pa
 
 ---
 
-## 📂 File Structure
-
-
